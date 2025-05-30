@@ -251,7 +251,7 @@ function Home() {
         </div>
         <div className='image2'>
           <div className='image3'>
-            <img src='https://dlcdnrog.asus.com/rog/media/1746054853639.webp' />
+            <img src='https://dlcdnrog.asus.com/rog/media/1746054853639.webp'/>
             <p> The ROG Azoth X 75% wireless keyboard is here, designed for hardcore gamers and..<br></br>
               At ROG, we pride ourselves on catering to hardcore PC gamers who like to mod their peripherals. That's why </p>
           </div>
